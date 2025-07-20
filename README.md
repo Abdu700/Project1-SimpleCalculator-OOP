@@ -1,1 +1,1 @@
-# Project1-SimpleCalculator-OOP-
+# Simple Calculator (OOP)
